@@ -1,0 +1,12 @@
+# Secretos
+.env
+
+# Entorno virtual de Python
+.venv/
+
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Datos crudos locales (se regeneran con los scripts; la copia oficial vive en S3)
+data/raw/
